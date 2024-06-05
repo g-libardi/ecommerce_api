@@ -1,2 +1,3 @@
 venv
 directories.txt
+*/__pycache__/
